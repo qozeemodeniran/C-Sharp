@@ -1,0 +1,3 @@
+create new app - dotnet new console -o basics
+build app - dotnet build
+run app - dotnet run
