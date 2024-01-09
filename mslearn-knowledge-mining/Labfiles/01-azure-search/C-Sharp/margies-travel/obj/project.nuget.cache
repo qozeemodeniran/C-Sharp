@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "cBkqkjAG7z/z/9lXCdpGgG4RYgKiWmChTTNmc7CVgoVEHHomv/x0HJZEmyONdzRC4/izbNmIHtxcGghRcY+ROQ==",
+  "success": true,
+  "projectFilePath": "/Users/qozeemodeniran/projects/C-Sharp/mslearn-knowledge-mining/Labfiles/01-azure-search/C-Sharp/margies-travel/search-client.csproj",
+  "expectedPackageFiles": [
+    "/Users/qozeemodeniran/.nuget/packages/azure.core/1.4.1/azure.core.1.4.1.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/azure.search.documents/11.1.1/azure.search.documents.11.1.1.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.bcl.asyncinterfaces/1.0.0/microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.configuration/3.1.32/microsoft.extensions.configuration.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.32/microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.configuration.fileextensions/3.1.32/microsoft.extensions.configuration.fileextensions.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.configuration.json/3.1.32/microsoft.extensions.configuration.json.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.32/microsoft.extensions.fileproviders.abstractions.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.fileproviders.physical/3.1.32/microsoft.extensions.fileproviders.physical.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.filesystemglobbing/3.1.32/microsoft.extensions.filesystemglobbing.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/microsoft.extensions.primitives/3.1.32/microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/system.buffers/4.5.0/system.buffers.4.5.0.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/system.text.json/4.6.0/system.text.json.4.6.0.nupkg.sha512",
+    "/Users/qozeemodeniran/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

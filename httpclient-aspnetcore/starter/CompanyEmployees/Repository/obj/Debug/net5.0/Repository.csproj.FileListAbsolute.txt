@@ -1,0 +1,17 @@
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/bin/Debug/net5.0/Repository.deps.json
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/bin/Debug/net5.0/Repository.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/bin/Debug/net5.0/Repository.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/bin/Debug/net5.0/Contracts.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/bin/Debug/net5.0/Entities.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/bin/Debug/net5.0/Contracts.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/bin/Debug/net5.0/Entities.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.csproj.AssemblyReference.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.AssemblyInfoInputs.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.AssemblyInfo.cs
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.csproj.CoreCompileInputs.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.csproj.CopyComplete
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/refint/Repository.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/Repository.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/Debug/net5.0/ref/Repository.dll

@@ -1,0 +1,15 @@
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/bin/Debug/net5.0/Contracts.deps.json
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/bin/Debug/net5.0/Contracts.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/bin/Debug/net5.0/Contracts.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/bin/Debug/net5.0/Entities.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/bin/Debug/net5.0/Entities.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.csproj.AssemblyReference.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.AssemblyInfoInputs.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.AssemblyInfo.cs
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.csproj.CopyComplete
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/refint/Contracts.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/Contracts.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/Debug/net5.0/ref/Contracts.dll

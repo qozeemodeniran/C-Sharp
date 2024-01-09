@@ -1,0 +1,408 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {}
+  },
+  "projects": {
+    "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "projectName": "CompanyEmployees",
+        "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/CompanyEmployees/CompanyEmployees.csproj",
+        "packagesPath": "/Users/qozeemodeniran/.nuget/packages/",
+        "outputPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/CompanyEmployees/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/qozeemodeniran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/LoggerService/LoggerService.csproj": {
+                "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/LoggerService/LoggerService.csproj"
+              },
+              "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/Repository.csproj": {
+                "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/qozeemodeniran/.nuget/packages/",
+        "outputPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/qozeemodeniran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/Entities.csproj": {
+                "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/Entities.csproj",
+        "packagesPath": "/Users/qozeemodeniran/.nuget/packages/",
+        "outputPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/qozeemodeniran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/LoggerService/LoggerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "projectName": "LoggerService",
+        "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/LoggerService/LoggerService.csproj",
+        "packagesPath": "/Users/qozeemodeniran/.nuget/packages/",
+        "outputPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/LoggerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/qozeemodeniran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/Repository.csproj",
+        "packagesPath": "/Users/qozeemodeniran/.nuget/packages/",
+        "outputPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/qozeemodeniran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Contracts/Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

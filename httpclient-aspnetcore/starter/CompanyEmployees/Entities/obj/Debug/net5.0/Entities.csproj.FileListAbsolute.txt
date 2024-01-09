@@ -1,0 +1,12 @@
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/bin/Debug/net5.0/Entities.deps.json
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/bin/Debug/net5.0/Entities.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/bin/Debug/net5.0/Entities.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/Entities.csproj.AssemblyReference.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/Entities.AssemblyInfoInputs.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/Entities.AssemblyInfo.cs
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/Entities.csproj.CoreCompileInputs.cache
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/Entities.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/refint/Entities.dll
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/Entities.pdb
+/Users/qozeemodeniran/projects/C-Sharp/httpclient-aspnetcore/starter/CompanyEmployees/Entities/obj/Debug/net5.0/ref/Entities.dll
